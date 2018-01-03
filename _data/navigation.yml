@@ -1,11 +1,21 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /contact/ 
+  url: /portfolio/ 
   excerpt: "网页设计的个人作品集"
-  image:b.jpg
+  image: 喜羊羊.gif
 
 - title: 信息可视化作品集
-  url: /contact/ 
+  url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
-  image:d.jpg
+  image: 作业.gif  
+  
+- title: 学习笔记
+  url: /posts/ 
+  excerpt: "学习笔记"
+  image: 作业害死人.gif
+ 
+- title: 别联系我
+  url: /contact/ 
+  excerpt: "别联系我"
+  image: 溜了.gif
