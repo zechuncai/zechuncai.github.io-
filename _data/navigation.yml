@@ -1,11 +1,11 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /portfolio/ 
+  url: /contact/ 
   excerpt: "网页设计的个人作品集"
-  
+  image:b.jpg
 
 - title: 信息可视化作品集
-  url: /infovis/ 
+  url: /contact/ 
   excerpt: "信息可视化的个人作品集"
-  
+  image:d.jpg
