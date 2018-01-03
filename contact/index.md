@@ -1,7 +1,9 @@
-layout: artical
-title:  "可视化图表的优点"
-categories: 
+---
+layout: article
+title:  "About me"
+date:   2018-12-07 23:45:15 +0800
+categories: contact
 image:
-  teaser: tu.jpg
-  feature: tu.jpg
+  teaser: mei.jpg
+  feature: mei.jpg
 ---
