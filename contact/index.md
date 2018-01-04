@@ -6,4 +6,13 @@ categories: contact
 image:
   teaser: b.jpg
   feature: b.jpg
+<<<<<<< HEAD
 ---
+=======
+---
+-姓名：蔡泽纯
+-学号：161013004
+-班级：网络与新媒体1班
+-兴趣：阅读
+-邮箱：1173933216@qq.com
+>>>>>>> 4bd83d32634b84bd8d5f9f784a41c86c40276683
