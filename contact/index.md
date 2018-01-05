@@ -1,18 +1,24 @@
 ---
 layout: article
 title:  "About me"
-date:   2018-12-07 23:45:15 +0800
 categories: contact
 image:
-  teaser: b.jpg
-  feature: b.jpg
-<<<<<<< HEAD
+  teaser: pink.jpg
+  feature: pink.jpg
 ---
-=======
----
--姓名：蔡泽纯
--学号：161013004
--班级：网络与新媒体1班
--兴趣：阅读
--邮箱：1173933216@qq.com
->>>>>>> 4bd83d32634b84bd8d5f9f784a41c86c40276683
+简介：<br>
+我来自中山大学南方学院
+文学与传媒学院
+网络与新媒体专业<br>
+我热爱学习，喜欢阅读，爱异想天开
+
+> “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.”
+> 
+>Steve Jobs, Apple Inc.
+
+KNOW MORE:<br>
+-姓名：蔡泽纯<br>
+-班级：网络与新媒体1班<br>
+-学号：161013004<br>
+-邮箱：1173933216@qq.com.com<br>
+GitHub：https://github.com/zechuncai<br>
