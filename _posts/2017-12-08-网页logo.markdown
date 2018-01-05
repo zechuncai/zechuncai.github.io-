@@ -12,7 +12,6 @@ image:
 
 
 
-
 ### 可视化图表心得
 
  - 昨晚熬夜修仙，做可视化地图，我发现真的去做真的不是特别烦，
@@ -20,14 +19,13 @@ image:
  - 得到同学们能跑出来了的ipynb档之后，我便开始操作一遍，发现其中有一个人的文档特别好用，就是那个做国产手机的
  - 然后我就将自己的数据也放进去跑，结果一下子就跑出来了，真是太高兴了，很少有这么简单就能做的
  - 跑完之后就出现一个tsv档，然后我就开始打开Tableau
- - 看不到文件就去[我的仓库](https://github.com/treeice/PhotoForUrl)
- - ![提交步骤一,看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤一.png")
- - ![提交步骤二，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤二.png")
+ - 打开Tableau后，我便开始数据清理，清理完后便做了数据提取，提取了数据之后，直接转到工作表，然后开始制作表格。
+ - 绘制了三个表格后，我就打开仪表板，仪表板上
  - ![提交步骤三，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤三.png")
  - - 以下步骤，该模板以完成
  - - 生成后，把文件压缩包下载下来，其中黑框的代码，是引用logo的代码，在jekyll里面，网页的各种信息是存放在不同位置，然后通过统一的引用就能加入所有的网页中去
  - - 这里，我们在_includes文件夹中创建一个名为favicon.html的文件。在里面把那几行代码填入：
- - - ![提交步骤四，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤四.png")
+ - - ![提交步骤四，看到这句话说明，图片加载不出来]("https:/阿/github.com/treeice/PhotoForUrl/步骤四.png")
  - - 然后打开_layout文件夹下的_default.html文件夹，把刚刚创建的favicon.html的文件加入网页之中，格式是大括号{\% \%}，里面填写引用代码的文件位置，这里是 include favicon.html 两个位置。
  - - ![提交步骤五，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤五.png")
  - 以上步骤，该模板以完成
