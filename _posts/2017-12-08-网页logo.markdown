@@ -5,7 +5,7 @@ date:   2017-12-07 23:45:15 +0800
 categories: posts rwd
 image:
   teaser: tu.jpg
-  feature: tu.jpg
+  
 ---
 
 # 做可视化图表和网页设计的心得
