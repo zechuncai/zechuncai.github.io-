@@ -8,14 +8,14 @@
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
-  image: 作业.gif  
+  image: one.gif  
   
 - title: 学习笔记
   url: /posts/ 
   excerpt: "学习笔记"
-  image: 作业害死人.gif
+  image: two.gif
  
 - title: 别联系我
   url: /contact/ 
   excerpt: "别联系我"
-  image: 溜了.gif
+  image: three.gif
