@@ -2,8 +2,9 @@
 
 title: "菜鸟励志版期末专题"
 description: "这个网站是通宵做的，美少女已经通宵好几天了，希望老师笑一笑，别挂我"
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 logo: # 个人的logo120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: # 4affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"0affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"0x250 px default teaser image used in image archive grid
 locale: zh_CN # 本地化翻譯
 url: "zechuncai.github.io"
 feed:
